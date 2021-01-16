@@ -51,7 +51,7 @@ async function forecast(place) {
 
 function forecastString(data) {
   const {periods} = data;
-  const [today, tomorrow] = periods;
+  const [yesterday, today, tomorrow] = periods;
   return `Today: ${forecastPeriod(today)}, Tomorrow: ${forecastPeriod(tomorrow)}`;
 }
 
