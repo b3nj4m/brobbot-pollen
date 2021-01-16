@@ -1,6 +1,6 @@
 {
   "name": "brobbot-pollen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "brobbot plugin for getting pollen forecast from pollen.com",
   "main": "index.js",
   "scripts": {
