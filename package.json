@@ -1,0 +1,20 @@
+{
+  "name": "brobbot-pollen",
+  "version": "1.0.0",
+  "description": "brobbot plugin for getting pollen forecast from pollen.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3nj4m/brobbot-pollen.git"
+  },
+  "author": "Ben Robbins <ben.robbins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b3nj4m/brobbot-pollen/issues"
+  },
+  "homepage": "https://github.com/b3nj4m/brobbot-pollen#readme",
+  "dependencies": {}
+}
